@@ -1,0 +1,7 @@
+Credenciales Docker
+
+joaquin.lopez@soprasteria.comn
+name: joaquinqualitat
+pass: dGu....1*
+
+Instalado Python 3.9.1
